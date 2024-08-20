@@ -1,1 +1,2 @@
 https://zh.cppreference.com/w/cpp/language
+https://www.omnigroup.com/mailman/archive/macosx-dev/2001-March/022979.html
